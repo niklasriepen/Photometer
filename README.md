@@ -1,5 +1,5 @@
 # Photometer
-All components related to the web interface of the self built photometer.
+All components related to the web interface of the photometer built by Q2d 2020, Physikprofil EBS.
 
 ### Filepaths to important components:
 
