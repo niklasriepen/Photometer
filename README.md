@@ -1,6 +1,6 @@
 # Photometer
 Complete repository: https://github.com/EBSPhysik2020/Photometer  
-Contains all components related to the web interface of the photometer built by Q2d 2020, Physikprofil EBS.
+Contains all components related to the web interface of the photometer built by Q2d 2020, Physikprofil EBS!
 
 ### Filepaths to important components:
 
